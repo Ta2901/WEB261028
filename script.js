@@ -1,7 +1,4 @@
- // script.js : 내 영화 평점 통계(콘솔판)
- // 작성자 : 이름(학번)
-
- const titles = [
+const titles = [
     "인터스텔라 Interstellar",
     "무서운 영화 Scary Movie",
     "옥희의 영화",
